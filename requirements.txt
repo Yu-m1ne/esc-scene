@@ -1,0 +1,14 @@
+ai-edge-litert
+onnx
+onnx2tf==1.21.0
+onnxruntime
+onnx-graphsurgeon
+pandas
+psutil
+sng4onnx
+soundfile
+tensorflow
+tf-keras
+torch
+torchaudio
+torchvision
